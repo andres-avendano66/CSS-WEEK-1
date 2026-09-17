@@ -1,0 +1,55 @@
+/* Paso 3: Estilizar etiqueta body (Familia y tamaño de fuente) */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #f8f9fa;
+    color: #212529; /* Texto oscuro para asegurar contraste */
+    margin: 0;
+    padding: 0;
+}
+
+/* Paso 4: Estilizar etiqueta header (Color de fondo) */
+header {
+    background-color: #0f172a; /* Azul muy oscuro */
+    padding: 20px;
+}
+
+/* Paso 5: Estilizar etiqueta nav (Color de fondo) */
+nav {
+    background-color: #1e3a8a; /* Azul marino */
+    padding: 10px;
+}
+
+/* Paso 6: Estilizar etiqueta main (Color de fondo y tamaño de fuente) */
+main {
+    background-color: #ffffff; /* Fondo blanco para alto contraste */
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Paso 7: Estilizar etiqueta footer (Color de fondo) */
+footer {
+    background-color: #0f172a; /* Azul muy oscuro */
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Paso 8: Estilizar etiqueta li (Display y width) */
+li {
+    display: inline-block;
+    width: 20%;
+}
+
+/* Paso 9: Estilizar etiqueta h1 (Alineación, familia de fuente y color) */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', Times, serif;
+    color: #ffffff; /* Blanco brillante sobre fondo oscuro (Pasa WAVE) */
+}
+
+/* Paso 10: Estilizar etiqueta p (Altura de línea) */
+p {
+    line-height: 1.6;
+    color: #1f2937; /* Gris oscuro legible */
+}
